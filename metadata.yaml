@@ -1,0 +1,48 @@
+_repo: Little-Masterpieces-of-Science-Mind_64286
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hudson, William H.
+    gutenberg_agent_id: '52838'
+    url: http://www.gutenberg.org/2009/agents/52838
+  - agent_name: Sully, James
+    birthdate: 1842
+    deathdate: 1923
+    gutenberg_agent_id: '7616'
+    url: http://www.gutenberg.org/2009/agents/7616
+    wikipedia: https://en.wikipedia.org/wiki/James_Sully
+  - agent_name: Galton, Francis
+    alias: Galton, Francis, Sir
+    birthdate: 1822
+    deathdate: 1911
+    gutenberg_agent_id: '4029'
+    url: http://www.gutenberg.org/2009/agents/4029
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Galton
+  - agent_name: Fiske, John
+    aliases:
+    - Green, Edmund Fisk
+    - Fisk, John
+    birthdate: 1842
+    deathdate: 1901
+    gutenberg_agent_id: '525'
+    url: http://www.gutenberg.org/2009/agents/525
+    wikipedia: https://en.wikipedia.org/wiki/John_Fiske
+  editor:
+    agent_name: Iles, George
+    birthdate: 1852
+    deathdate: 1942
+    gutenberg_agent_id: '697'
+    url: http://www.gutenberg.org/2009/agents/697
+description: ''
+gutenberg_issued: '2021-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64286'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Little Masterpieces of Science: Mind'
+url: http://www.gutenberg.org/ebooks/64286
